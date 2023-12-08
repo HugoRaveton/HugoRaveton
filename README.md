@@ -1,2 +1,3 @@
 - I am Hugo Raveton (MSc. in Biology and modeling of Complex Systems)
-- I am interested in how living matter is shaped during development, and in th ephysical basis of morphogenesis
+- I am interested in how living matter is shaped during development, and in the physical basis of morphogenesis
+- I use experimental and theoretical approaches to understand emergent phenomena: multi-scale analyses in developing embryos using microscopy and modeling with dynamical systems and graphs.
