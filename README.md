@@ -1,3 +1,1 @@
-- I am Hugo Raveton (MSc. in Biology and modeling of Complex Systems)
-- I am broadly interested in the physical basis of cell and tissues morphogenesis
-- I enjoy both experimental and theoretical approaches to understand biological phenomena, including dynamical systems, network science and thermodynamics.
+
